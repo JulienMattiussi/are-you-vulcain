@@ -11,6 +11,7 @@ const VULCAN_NAMES: string[] = [
   "Guillaume",
   "Pierson",
   "Spok",
+  "Ketrasiks",
 ];
 
 const NOT_VULCAN_NAMES: string[] = ["Billey"];
